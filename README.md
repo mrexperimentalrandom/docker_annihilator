@@ -38,3 +38,4 @@ This script is designed to perform a comprehensive removal of all Docker compone
 The script will ask for permission for every action in sequence.
 
 License
+This project is dedicated to the public domain. Feel free to use, modify, and distribute it as you wish, with no attribution required.
